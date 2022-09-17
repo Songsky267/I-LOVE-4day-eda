@@ -330,7 +330,7 @@ body, ul, li, p, a, label, input, div {
   white-space: pre ;
   width: fit-content ;
   animation: text-wrap var(--duration-text-wrap) infinite ;
-
+font-size: 14px;
 }
 
 @keyframes text-wrap {
