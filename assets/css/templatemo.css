@@ -31,18 +31,18 @@ Table of contents
 /* Typography */
 body, ul, li, p, a, label, input, div {
   font-family: 'Roboto', sans-serif;
-  font-size: 22px !important;
+  font-size: 18px !important;
   font-weight: 300 !important;
 }
 .h1 {
   font-family: 'Roboto', sans-serif;
-  font-size: 48px !important;
+  font-size: 28px !important;
   font-weight: 200 !important;
 }
 .h2 {
   font-family: 'Roboto', sans-serif;
-  font-size: 30px !important;
-  font-weight: 300;
+  font-size: 20px !important;
+  font-weight: 500;
 }
 .h3 {
   font-family: 'Roboto', sans-serif;
@@ -52,7 +52,7 @@ body, ul, li, p, a, label, input, div {
 .logo { font-weight: 500 !important;}
 .text-warning {  color: #ede861 !important;}
 .text-muted { color: #bcbcbc !important;}
-.text-success { color: #400e78 !important;}
+.text-success { color: #400e78 !important; font-size: 30px;}
 .text-light { color: #cfd6e1 !important;}
 .bg-dark { background-color: #212934 !important;}ㄴ
 .bg-light { background-color: #e9eef5 !important;}
